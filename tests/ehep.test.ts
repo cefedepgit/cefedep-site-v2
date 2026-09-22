@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import { validateBank, sample, eligible, secondsLeft, summarize, type Question, type Attempt } from '../src/lib/ehep';
+const q: Question = { id:'test-1', career:'medicina', prompt:'Pregunta de prueba', options:['Uno','Dos'], correct:1, active:true, explanation:'' };
+test('banco migrado operativo pasa validación y anomalía permanece separada',()=> { const bank=JSON.parse(readFileSync('src/content/ehep-bank.json','utf8')); assert.ok(validateBank(bank)); assert.equal(bank.length,3176); const quarantine=JSON.parse(readFileSync('src/content/ehep-quarantine.json','utf8')); assert.equal(quarantine[0].id,'enf-1646'); assert.equal(validateBank(quarantine),false); });
+test('banco rechaza claves incorrectas e identificadores duplicados', () => { assert.ok(validateBank([q])); assert.equal(validateBank([q,q]),false); assert.equal(validateBank([{...q,correct:2}]),false); assert.equal(validateBank([{...q,options:['']}]),false); });
+test('muestreo no muta ni repite elementos y limita al banco', () => { const original=[1,2,3,4]; const result=sample(original,100,()=>0.5); assert.deepEqual(original,[1,2,3,4]); assert.equal(new Set(result).size,4); assert.equal(sample(original,2).length,2); });
+test('acceso exige habilitación y vigencia', () => { const s={id:'a',alias:'Prueba',career:'medicina' as const, enabled:true,expires:'2027-01-01'}; assert.equal(eligible(s,Date.parse('2026-01-01')),true); assert.equal(eligible({...s,enabled:false},0),false); assert.equal(eligible(s,Date.parse('2028-01-01')),false); });
+test('reloj absoluto y resultados cuentan omisiones', () => { const a:Attempt={id:'a',studentId:'s',career:'medicina',questions:[q,{...q,id:'test-2'}],answers:{'test-1':1},flagged:[],index:0,startedAt:1000,deadline:61000,finishedAt:80000,mode:'exam'}; assert.equal(secondsLeft(a,62000),0); assert.deepEqual(summarize(a),{correct:1,answered:1,unanswered:1,percentage:50,elapsed:60}); });

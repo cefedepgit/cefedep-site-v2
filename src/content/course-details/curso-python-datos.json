@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Aprende fundamentos para organizar, analizar y visualizar datos con bibliotecas de Python.",
+  "overviewTitle": "Análisis y visualización de datos",
+  "overview": "El curso presenta herramientas de Python para trabajar con datos y comunicar resultados mediante representaciones gráficas.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller interesadas en el procesamiento y análisis de datos.",
+  "modules": [
+    {
+      "title": "Organización de datos",
+      "description": "Principios introductorios para estructurar y preparar datos para su análisis."
+    },
+    {
+      "title": "Análisis con Python",
+      "description": "Uso de bibliotecas de Python para explorar y analizar conjuntos de datos."
+    },
+    {
+      "title": "Visualización de resultados",
+      "description": "Representación gráfica de información para facilitar su interpretación."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de bachiller."
+    }
+  ]
+}

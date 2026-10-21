@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Da tus primeros pasos en lógica, estructuras de control y algoritmos con Python.",
+  "overviewTitle": "Primeros pasos con Python",
+  "overview": "El curso introduce conceptos de programación para comenzar a plantear y resolver problemas mediante código.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller interesadas en comenzar a programar.",
+  "modules": [
+    {
+      "title": "Lógica de programación",
+      "description": "Conceptos para expresar soluciones de problemas de forma ordenada."
+    },
+    {
+      "title": "Estructuras de control",
+      "description": "Uso introductorio de estructuras para organizar la ejecución de un programa."
+    },
+    {
+      "title": "Algoritmos con Python",
+      "description": "Construcción de soluciones básicas usando los fundamentos del lenguaje."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de bachiller."
+    }
+  ]
+}

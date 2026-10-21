@@ -27,7 +27,7 @@ export function TrainingGallery() {
         </figure>
         <figure>
           <Image
-            src="/photos/capacitacion-auditorio.jpeg"
+            src="/photos/capacitacion-auditorio.webp"
             alt="Facilitador de CEFEDEP impartiendo una capacitación con participantes en un auditorio"
             width={1280}
             height={963}

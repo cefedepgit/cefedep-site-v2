@@ -13,7 +13,7 @@ export function Endorsement() {
         </div>
         <div className="endorsement-logo">
           <Image
-            src="/brand/uisrael.png"
+            src="/brand/UISRAEL-V2.png"
             alt="UISRAEL · Universidad Israel"
             width={3409}
             height={1186}

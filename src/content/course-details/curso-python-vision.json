@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Explora fundamentos de procesamiento de imágenes y detección visual con OpenCV y NumPy.",
+  "overviewTitle": "Fundamentos de visión por computadora",
+  "overview": "El curso introduce conceptos de procesamiento de imágenes y herramientas de Python para explorar tareas de visión por computadora.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller o formación técnica afín interesadas en visión por computadora.",
+  "modules": [
+    {
+      "title": "Imágenes digitales",
+      "description": "Conceptos básicos para comprender cómo se representan imágenes en un entorno computacional."
+    },
+    {
+      "title": "Procesamiento con Python",
+      "description": "Exploración de operaciones de procesamiento de imágenes con bibliotecas de Python."
+    },
+    {
+      "title": "Detección visual",
+      "description": "Introducción a tareas de detección visual con herramientas como OpenCV y NumPy."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica bachillerato o formación técnica afín."
+    }
+  ]
+}

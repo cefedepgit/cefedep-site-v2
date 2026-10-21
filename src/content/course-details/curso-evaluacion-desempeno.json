@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Educación / Formación continua",
+  "intro": "Domina la construcción técnica de reactivos de opción múltiple, el ensamble de pruebas estandarizadas y la validación psicométrica de exámenes.",
+  "overviewTitle": "Construcción técnica y validación de exámenes",
+  "overview": "Formación especializada en niveles cognitivos de evaluación, reglas de formulación de reactivos, detección de defectos en preguntas y cálculo de puntos de corte.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Docentes, evaluadores y diseñadores instruccionales encargados de elaborar instrumentos de evaluación académica a gran escala.",
+  "modules": [
+    {
+      "title": "Examinación de Alto Impacto y Opción Múltiple",
+      "description": "Estructura de exámenes, escalas de aprendizaje, niveles cognitivos y formatos de reactivos."
+    },
+    {
+      "title": "Selección de la Mejor Respuesta y Ensamble",
+      "description": "Reglas técnicas de construcción, detección de defectos, ponderación y balance conceptual."
+    },
+    {
+      "title": "Evaluación Psicométrica de Exámenes",
+      "description": "Psicometría básica para reactivos, definición de estándares y punto de corte (método Angoff)."
+    }
+  ],
+  "development": "El programa abarca 40 horas académicas (20 horas sincrónicas y 20 horas asincrónicas) dictadas 100% virtual vía Google Meet y Classroom.",
+  "certification": "Certificado digital con aval académico otorgado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Consta de 40 horas académicas (20 horas sincrónicas y 20 horas asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a docentes de educación básica, media o superior y evaluadores académicos."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El costo por participante es de $80,00 USD."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Mag. Willian Giovanny Quispe Revelo, experto en gestión de la calidad y evaluación educativa."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Es un programa de formación continua para el perfeccionamiento docente."
+    }
+  ]
+}

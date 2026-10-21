@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Educación / Formación continua",
+  "intro": "Diseña recursos didácticos multimedia e interactivos integrando metodologías tecno-pedagógicas, herramientas en la nube y gamificación.",
+  "overviewTitle": "Innovación y tecno-pedagogía digital",
+  "overview": "Capacitación práctica enfocada en el modelo ADDIE, curación de contenidos, diseño visual en Canva, interactividad en Genially, dinámicas de gamificación y evaluación formativa.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Docentes, instructores y profesionales de la educación interesados en innovar sus entornos virtuales de aprendizaje.",
+  "modules": [
+    {
+      "title": "Diseño Instruccional Digital y Curación de Contenidos",
+      "description": "Principios del Modelo ADDIE, usabilidad, accesibilidad, búsquedas avanzadas y licencias Creative Commons."
+    },
+    {
+      "title": "Diseño Visual (Canva) e Interactividad (Genially)",
+      "description": "Psicología del color, infografías animadas, capas de interactividad, mapas conceptuales y breakouts virtuales."
+    },
+    {
+      "title": "Gamificación Educativa y Audiovisuales",
+      "description": "Dinámicas con Kahoot, Quizizz y Wordwall; guionización, grabación y edición de videos interactivos y podcasts."
+    },
+    {
+      "title": "Hojas de Trabajo y Evaluación Interactiva",
+      "description": "Fichas autoevaluables con Liveworksheets, encuestas dinámicas y configuración de rúbricas en LMS."
+    }
+  ],
+  "development": "Comprende 40 horas académicas (24 horas sincrónicas y 16 horas asincrónicas) dictadas en modalidad 100% virtual vía Google Meet y Classroom/Moodle.",
+  "certification": "Certificado digital avalado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Duración de 40 horas académicas (24h sincrónicas y 16h asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, 100% virtual con sesiones sincrónicas y actividades prácticas en entorno virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a educadores, docentes de cualquier nivel formativo e instructores."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El costo por participante es de $100,00 USD."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Mag. María Micaela Herrera Ojeda, Magíster en Innovación en la Educación."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Se imparte como un curso de actualización y formación continua con aval universitario."
+    }
+  ]
+}

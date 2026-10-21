@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Explora proyectos de automatización, procesamiento de datos y soluciones apoyadas por inteligencia artificial.",
+  "overviewTitle": "Automatización con Python e IA",
+  "overview": "El curso introduce el uso de Python en proyectos de automatización y procesamiento de datos, así como el análisis de soluciones que integran inteligencia artificial.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller interesadas en explorar Python, automatización e inteligencia artificial.",
+  "modules": [
+    {
+      "title": "Fundamentos de Python",
+      "description": "Elementos del lenguaje necesarios para comprender ejemplos de automatización."
+    },
+    {
+      "title": "Procesamiento de datos",
+      "description": "Operaciones introductorias para trabajar con datos en proyectos."
+    },
+    {
+      "title": "Automatización e inteligencia artificial",
+      "description": "Exploración de tareas automatizables y aplicaciones de inteligencia artificial."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de bachiller."
+    }
+  ]
+}

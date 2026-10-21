@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Aprende a estructurar, diseñar y publicar sitios web estáticos con HTML5 y CSS3.",
+  "overviewTitle": "Fundamentos de desarrollo web",
+  "overview": "El curso aborda la estructura de páginas web, el diseño adaptable y los fundamentos para publicar sitios estáticos.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller interesadas en comenzar a crear sitios web.",
+  "modules": [
+    {
+      "title": "Estructura con HTML5",
+      "description": "Organización del contenido de una página web mediante elementos HTML."
+    },
+    {
+      "title": "Diseño con CSS3",
+      "description": "Estilos y recursos para presentar contenido web de manera clara."
+    },
+    {
+      "title": "Diseño adaptable y publicación",
+      "description": "Principios de adaptación a distintos tamaños de pantalla y publicación de sitios estáticos."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de bachiller."
+    }
+  ]
+}

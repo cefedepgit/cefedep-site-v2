@@ -1,0 +1,58 @@
+{
+  "eyebrow": "Salud / Formación continua",
+  "intro": "Un programa para fortalecer tus conocimientos sobre el trabajo en establecimientos farmacéuticos.",
+  "overviewTitle": "Una formación orientada a la práctica",
+  "overview": "El programa combina contenidos virtuales y un componente práctico. Su objetivo es desarrollar conocimientos de normativa, almacenamiento, dispensación y atención farmacéutica.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A jóvenes y adultos con título de bachiller interesados en esta área de formación.",
+  "modules": [
+    {
+      "title": "Farmacología aplicada",
+      "description": "Estudio de vías de administración y familias de medicamentos como parte de la formación académica."
+    },
+    {
+      "title": "Recetas y medicamentos controlados",
+      "description": "Revisión de aspectos técnicos de las recetas y del marco de dispensación que se estudia en el programa."
+    },
+    {
+      "title": "Atención y comunicación en farmacia",
+      "description": "Atención al usuario, farmacovigilancia y organización comercial con criterios éticos."
+    },
+    {
+      "title": "Logística y gestión de inventarios",
+      "description": "Almacenamiento, rotación, proveedores y reposición de productos."
+    },
+    {
+      "title": "Normativa sanitaria",
+      "description": "Documentación de establecimientos, responsabilidades y preparación de ejercicios de inspección."
+    }
+  ],
+  "development": "La ficha publicada contempla discusión de casos, evaluaciones por módulo y actividades de simulación. El lugar, cronograma y condiciones del componente práctico deben confirmarse para cada convocatoria.",
+  "certification": "Curso con aval académico de la Universidad Israel (UISRAEL), confirmado por CEFEDEP. Consulta los requisitos de asistencia y evaluación, el tipo de certificado y sus condiciones antes de inscribirte.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada es de dos meses, equivalentes a ocho semanas."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "No. La modalidad publicada es híbrida: 80% virtual y 20% práctico. Consulta la ubicación y organización del componente práctico."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "La ficha del programa indica título de bachiller."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "La próxima fecha, el costo y los cupos están pendientes de confirmación para esta V2. No se recibe ningún pago aquí."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "El perfil docente de la próxima convocatoria está pendiente de publicación."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Se presenta como formación continua con aval académico, no como una carrera universitaria. No se promete habilitación profesional ni empleo."
+    }
+  ]
+}

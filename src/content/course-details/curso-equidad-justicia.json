@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Derecho / Formación continua",
+  "intro": "Promueve entornos de trabajo equitativos, libres de violencia y conoce a fondo la legislación laboral nacional e internacional con perspectiva de género.",
+  "overviewTitle": "Derechos laborales e igualdad de oportunidades",
+  "overview": "El programa capacita en el análisis del marco normativo de la OIT, identificación de brechas salariales y acoso laboral, legislación laboral ecuatoriana (Código del Trabajo, LOSEP) y activación de rutas de denuncia.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Profesionales de recursos humanos, líderes sindicales, estudiantes de derecho, personal administrativo, empleadores y público en general.",
+  "modules": [
+    {
+      "title": "El Contexto Global y la Evolución de los Derechos Laborales",
+      "description": "Evolución histórica, convenios OIT C100, C111, C190 y el concepto de trabajo digno."
+    },
+    {
+      "title": "Desafíos Contemporáneos y Brechas de Género",
+      "description": "Análisis de la brecha salarial, techo de cristal, economía del cuidado, sesgos inconscientes y acoso laboral."
+    },
+    {
+      "title": "Marco Normativo y Realidad en el Ecuador",
+      "description": "Código del Trabajo, LOSEP, protección a la maternidad, licencias de paternidad y acuerdos del MDT."
+    },
+    {
+      "title": "Aplicación Práctica, Defensa y Futuro del Trabajo",
+      "description": "Rutas de denuncia ante el Ministerio del Trabajo, Visto Bueno, teletrabajo y elaboración de un protocolo de prevención de acoso."
+    }
+  ],
+  "development": "Curso de 40 horas académicas en modalidad virtual (asincrónica o sincrónica adaptada) con simuladores prácticos y actividades en Google Classroom.",
+  "certification": "Certificación académica otorgada por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "El curso abarca un total de 40 horas académicas."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, modalidad 100% virtual con material interactivo y simuladores de casos en plataforma."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Abierto a profesionales, estudiantes y público general interesado en los derechos laborales."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "La inversión es de $50,00 USD e incluye materiales y certificación."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Mag. Willian Giovanny Quispe Revelo, especialista en gestión institucional y normativas educativas."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Corresponde a formación continua con aval académico, no constituye título universitario."
+    }
+  ]
+}

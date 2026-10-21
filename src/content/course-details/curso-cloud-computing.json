@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "Conoce modelos de servicio, costos e infraestructura en servicios de computación en la nube.",
+  "overviewTitle": "Conceptos de computación en la nube",
+  "overview": "El curso presenta conceptos de servicios e infraestructura en la nube y ofrece una introducción a plataformas como AWS, Azure y Google Cloud.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de bachiller interesadas en conocer fundamentos de cloud computing.",
+  "modules": [
+    {
+      "title": "Modelos de servicio",
+      "description": "Introducción a los modelos de servicio utilizados en computación en la nube."
+    },
+    {
+      "title": "Infraestructura en la nube",
+      "description": "Conceptos generales de infraestructura y recursos disponibles en plataformas cloud."
+    },
+    {
+      "title": "Costos y plataformas",
+      "description": "Aspectos generales de costos y familiarización con AWS, Azure y Google Cloud."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de bachiller."
+    }
+  ]
+}

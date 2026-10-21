@@ -61,13 +61,11 @@ export function CourseCatalog() {
                 href={
                   course.slug === "curso-farmacia"
                     ? "/cursos/auxiliar-farmacia"
-                    : "/contacto"
+                    : `/cursos/${course.slug}`
                 }
                 secondary
               >
-                {course.slug === "curso-farmacia"
-                  ? "Ver programa completo"
-                  : "Preparar consulta"}
+                Ver programa completo
               </ButtonLink>
             </div>
           </article>

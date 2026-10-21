@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Salud Ocupacional y Ergonomía / Formación Continua",
+  "intro": "Adquiere las competencias necesarias para identificar, evaluar y prevenir riesgos ergonómicos y transformar cualquier entorno laboral en un espacio seguro y saludable.",
+  "overviewTitle": "¿Por qué tomar este curso?",
+  "overview": "Adquiere las competencias necesarias para identificar, evaluar y prevenir riesgos ergonómicos. Transforma cualquier entorno laboral en un espacio seguro y saludable, mejorando la productividad y la calidad de vida de los trabajadores.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Dirigido a trabajadores, supervisores, responsables de seguridad y salud ocupacional, técnicos, profesionales y cualquier persona vinculada o interesada en la gestión de riesgos laborales y bienestar corporativo.",
+  "modules": [
+    {
+      "title": "Fundamentos",
+      "description": "Salud ocupacional, seguridad laboral y prevención de accidentes."
+    },
+    {
+      "title": "Ergonomía",
+      "description": "Aplicación física, cognitiva y organizacional; antropometría."
+    },
+    {
+      "title": "Evaluación de Riesgos",
+      "description": "Posturas forzadas, movimientos repetitivos y manipulación de cargas."
+    },
+    {
+      "title": "Prevención y Control",
+      "description": "Diseño ergonómico de puestos, pausas activas e higiene postural."
+    },
+    {
+      "title": "Práctica Real",
+      "description": "Diagnóstico ergonómico y elaboración de propuestas de mejora aplicables."
+    }
+  ],
+  "development": "40 Horas (20h en vivo / 20h plataforma). Horario: Lunes a viernes, de 19h00 a 21h00. Modalidad 100% Virtual (Híbrida) vía Google Meet y Classroom. Inversión Total: $100,00 USD. Facilitadora: Dra. Nancy Aguirre, Msc.",
+  "certification": "Incluye certificación con aval académico de la Universidad Israel y CEFEDEP, así como acceso a grabaciones.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "40 Horas (20h en vivo / 20h plataforma) de lunes a viernes de 19h00 a 21h00."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "100% Virtual (Híbrida) a través de Google Meet y Classroom."
+    },
+    {
+      "question": "¿Cuál es la inversión?",
+      "answer": "$100,00 USD (Incluye certificación y acceso a grabaciones)."
+    },
+    {
+      "question": "¿Quién imparte el programa?",
+      "answer": "Dra. Nancy Aguirre, Msc., médica general con maestría en ciencias forenses y especialización en seguridad y salud ocupacional."
+    },
+    {
+      "question": "¿Cuál es el aval académico?",
+      "answer": "Universidad Israel y CEFEDEP."
+    }
+  ]
+}

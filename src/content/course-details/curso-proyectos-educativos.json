@@ -1,0 +1,38 @@
+{
+  "eyebrow": "Área humana y educación / Formación continua",
+  "intro": "Conoce fundamentos de diseño de proyectos académicos, perfiles de egreso y planificación curricular.",
+  "overviewTitle": "Diseño y planificación académica",
+  "overview": "El curso aborda la creación de proyectos académicos y el desarrollo de perfiles y propuestas curriculares en educación superior.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "A personas con título de tercer o cuarto nivel, según el requisito publicado en el catálogo.",
+  "modules": [
+    {
+      "title": "Proyectos académicos",
+      "description": "Elementos introductorios para estructurar propuestas de creación de carreras."
+    },
+    {
+      "title": "Perfiles de egreso",
+      "description": "Criterios para relacionar perfiles de egreso con una propuesta formativa."
+    },
+    {
+      "title": "Planificación curricular",
+      "description": "Aspectos generales para organizar y revisar propuestas curriculares."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
+  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en el catálogo es de 40 horas."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "El catálogo indica modalidad 100% virtual."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "El catálogo indica título de tercer o cuarto nivel."
+    }
+  ]
+}

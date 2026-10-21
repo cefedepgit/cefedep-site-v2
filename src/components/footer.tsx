@@ -8,11 +8,10 @@ export function Footer() {
         <div>
           <Link href="/" className="footer-brand">
             <Image
-              src="/brand/cefedep.png"
+              src="/brand/cefedepLogoV2.png"
               alt="CEFEDEP Ecuador"
               width={500}
               height={500}
-              sizes="110px"
               className="footer-logo"
             />
           </Link>

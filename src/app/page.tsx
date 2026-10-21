@@ -4,6 +4,7 @@ import { Endorsement } from "@/components/endorsement";
 import { TrainingGallery } from "@/components/training-gallery";
 import { servicePages as services } from "@/content/service-pages";
 import { pageMetadata } from "@/lib/seo";
+
 export const metadata = pageMetadata(
   "Educación, investigación y consultoría",
   "CEFEDEP Ecuador: acompañamiento académico, consultoría institucional y cursos con aval de la Universidad Israel.",
@@ -71,6 +72,13 @@ export default function Home() {
         <div className="grid-three">
           {services.slice(0, 3).map((service) => (
             <article className="service-card" key={service.number}>
+              <Image
+                src={service.image}
+                alt="Ilustración ensayo"
+                width={320}
+                height={320}
+                className="service-icon"
+              />
               <span className="card-number">{service.number} /</span>
               <p className="eyebrow">{service.tag}</p>
               <h3>{service.title}</h3>

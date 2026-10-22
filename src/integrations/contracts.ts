@@ -31,3 +31,8 @@ export interface MoodlePort {
     courseId: string;
   }): Promise<IntegrationResult<{ enrollmentId: string }>>;
 }
+/** Proveedor de analíticas web (solo cliente, sin secrets). */
+export interface AnalyticsPort {
+  /** Measurement ID de Google Analytics 4 (G-XXXXXXXXXX) o null si no está configurado. */
+  measurementId: string | null;
+}

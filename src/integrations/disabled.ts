@@ -1,4 +1,5 @@
 import type {
+  AnalyticsPort,
   CrmPort,
   FirebasePort,
   IntegrationResult,
@@ -20,3 +21,8 @@ export const firebase: FirebasePort = {
 export const crm: CrmPort = { createLead: unavailable };
 export const payphone: PayphonePort = { createCheckout: unavailable };
 export const moodle: MoodlePort = { enroll: unavailable };
+/** Lee el Measurement ID desde la variable pública de entorno.
+ * Si no está definida, measurementId es null y el componente no inyecta el script. */
+export const analytics: AnalyticsPort = {
+  measurementId: process.env.NEXT_PUBLIC_GA_ID ?? null,
+};

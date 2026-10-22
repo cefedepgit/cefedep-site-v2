@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { GoogleAnalytics } from "@/components/google-analytics";
 import { resolveSiteUrl } from "@/lib/site";
 import "./globals.css";
 export const metadata: Metadata = {
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Header />
         <main id="contenido">{children}</main>
         <Footer />
+        <GoogleAnalytics />
       </body>
     </html>
   );

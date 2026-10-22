@@ -72,13 +72,15 @@ export default function Home() {
         <div className="grid-three">
           {services.slice(0, 3).map((service) => (
             <article className="service-card" key={service.number}>
-              <Image
-                src={service.image}
-                alt="Ilustración ensayo"
-                width={320}
-                height={320}
-                className="service-icon"
-              />
+              {service.image && (
+                <Image
+                  src={service.image}
+                  alt="Ilustración ensayo"
+                  width={320}
+                  height={320}
+                  className="service-icon"
+                />
+              )}
               <span className="card-number">{service.number} /</span>
               <p className="eyebrow">{service.tag}</p>
               <h3>{service.title}</h3>

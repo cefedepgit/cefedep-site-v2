@@ -18,6 +18,8 @@ import webDevelopment from "./course-details/curso-desarrollo-web.json";
 import cloudComputing from "./course-details/curso-cloud-computing.json";
 import equidad from "./course-details/curso-equidad-justicia.json";
 
+import { courseService } from "@/services/course.service";
+
 export type CourseDetailContent = {
   eyebrow: string;
   intro: string;
@@ -31,7 +33,7 @@ export type CourseDetailContent = {
   questions: { question: string; answer: string }[];
 };
 
-export const courseDetails: Record<string, CourseDetailContent> = {
+const baseDetails: Record<string, CourseDetailContent> = {
   "curso-farmacia": pharmacy,
   "curso-enfermeria": nursing,
   "curso-salud-ocupacional": occupationalHealth,
@@ -52,3 +54,39 @@ export const courseDetails: Record<string, CourseDetailContent> = {
   "curso-desarrollo-web": webDevelopment,
   "curso-cloud-computing": cloudComputing,
 };
+
+export const courseDetails: Record<string, CourseDetailContent> = new Proxy(
+  baseDetails,
+  {
+    get(target, prop: string) {
+      if (prop in target) {
+        return target[prop];
+      }
+      const loaded = courseService.getCourseDetail(prop);
+      if (loaded) {
+        target[prop] = loaded;
+        return loaded;
+      }
+      return undefined;
+    },
+    has(target, prop: string) {
+      if (prop in target) return true;
+      return courseService.getCourseDetail(prop) !== null;
+    },
+    ownKeys(target) {
+      const fromDisk = Object.keys(courseService.getAllCourseDetails());
+      return Array.from(new Set([...Object.keys(target), ...fromDisk]));
+    },
+    getOwnPropertyDescriptor(target, prop: string) {
+      const val = target[prop] ?? courseService.getCourseDetail(prop);
+      if (val !== undefined) {
+        return {
+          enumerable: true,
+          configurable: true,
+          value: val,
+        };
+      }
+      return undefined;
+    },
+  },
+);

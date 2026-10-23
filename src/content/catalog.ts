@@ -1,3 +1,17 @@
+import catalogJson from "./catalog.json";
+
+export interface Course {
+  category: string;
+  title: string;
+  description: string;
+  duration: string;
+  modality: string;
+  requirement: string;
+  sourcePath?: string;
+  slug: string;
+  courseDetail?: string;
+}
+
 export const services = [
   {
     number: "01",
@@ -81,13 +95,7 @@ export const services = [
     ],
   },
 ];
-export const categories = [
-  "Todos",
-  "Salud",
-  "Humana y educación",
-  "Tecnología",
-] as const;
-export const courses = [
+export const baseCourses: Course[] = [
   {
     category: "Salud",
     title: "Auxiliar en Farmacia",
@@ -289,3 +297,32 @@ export const courses = [
     slug: "curso-cloud-computing",
   },
 ];
+
+const dynamicCourses: Course[] = (catalogJson as Record<string, string>[]).map((item) => ({
+  category: item.category || "General",
+  title: item.title || item.slug,
+  description: item.description || "",
+  duration: item.duration || "Por confirmar",
+  modality: item.modality || "100% virtual",
+  requirement: item.requirement || "Sin requisito específico",
+  sourcePath: item.sourcePath || "",
+  slug: item.slug,
+  courseDetail: item.courseDetail || item.detailFile || `${item.slug}.json`,
+}));
+
+export const courses: Course[] = [
+  ...baseCourses.map((c) => ({
+    ...c,
+    courseDetail: c.courseDetail ?? `${c.slug}.json`,
+  })),
+  ...dynamicCourses,
+];
+
+const derivedCategories = Array.from(
+  new Set(courses.map((course) => course.category)),
+);
+
+export const categories = [
+  "Todos",
+  ...derivedCategories.filter((c) => c !== "Todos"),
+] as const;

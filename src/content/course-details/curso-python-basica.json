@@ -1,38 +1,46 @@
 {
   "eyebrow": "Tecnología / Formación continua",
-  "intro": "Da tus primeros pasos en lógica, estructuras de control y algoritmos con Python.",
-  "overviewTitle": "Primeros pasos con Python",
-  "overview": "El curso introduce conceptos de programación para comenzar a plantear y resolver problemas mediante código.",
+  "intro": "¡Aprende a programar desde cero, desarrolla tu lógica y automatiza tareas!",
+  "overviewTitle": "Programación Básica y Resolución de Problemas con Python",
+  "overview": "Este curso 100% práctico enseña las bases del pensamiento computacional, estructuras de control, funciones y manejo de datos en la nube (Google Colab), sentando las bases para desarrollar aplicaciones propias.",
   "audienceTitle": "¿A quién está dirigido?",
-  "audience": "A personas con título de bachiller interesadas en comenzar a programar.",
+  "audience": "Dirigido a principiantes, estudiantes de cualquier área e interesados en aprender a programar desde cero y dar sus primeros pasos en el desarrollo de software, sin necesidad de conocimientos previos.",
   "modules": [
     {
-      "title": "Lógica de programación",
-      "description": "Conceptos para expresar soluciones de problemas de forma ordenada."
+      "title": "Pensamiento Computacional",
+      "description": "Lógica algorítmica, variables y entorno en la nube (Google Colab)."
     },
     {
-      "title": "Estructuras de control",
-      "description": "Uso introductorio de estructuras para organizar la ejecución de un programa."
+      "title": "Control de Flujo",
+      "description": "Toma de decisiones (if/else) y automatización con bucles iterativos (for, while)."
     },
     {
-      "title": "Algoritmos con Python",
-      "description": "Construcción de soluciones básicas usando los fundamentos del lenguaje."
+      "title": "Modularidad y Funciones",
+      "description": "Código limpio, alcance de variables, parámetros y manejo de excepciones."
+    },
+    {
+      "title": "Estructuras de Datos",
+      "description": "Creación y manipulación de listas, tuplas, diccionarios y conjuntos."
+    },
+    {
+      "title": "Proyecto Integrador",
+      "description": "Análisis, diseño lógico, codificación y depuración de una aplicación funcional."
     }
   ],
-  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
-  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "development": "El catálogo publica una duración de 40 horas (20h sincrónicas / 20h asincrónicas) en modalidad 100% virtual (Google Meet / Classroom) de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye aval académico otorgado por la Universidad Israel y CEFEDEP.",
   "questions": [
     {
       "question": "¿Cuánto dura?",
-      "answer": "La duración publicada en el catálogo es de 40 horas."
+      "answer": "La duración publicada en la ficha técnica es de 40 horas (20 horas sincrónicas y 20 horas asincrónicas)."
     },
     {
       "question": "¿Cuál es la modalidad?",
-      "answer": "El catálogo indica modalidad 100% virtual."
+      "answer": "La ficha técnica indica modalidad 100% virtual a través de Google Meet y Google Classroom."
     },
     {
       "question": "¿Qué requisito de ingreso tiene?",
-      "answer": "El catálogo indica título de bachiller."
+      "answer": "No requiere conocimientos previos; está dirigido a principiantes e interesados en aprender a programar desde cero."
     }
   ]
 }

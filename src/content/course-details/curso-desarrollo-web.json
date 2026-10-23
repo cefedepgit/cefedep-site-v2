@@ -1,38 +1,46 @@
 {
   "eyebrow": "Tecnología / Formación continua",
-  "intro": "Aprende a estructurar, diseñar y publicar sitios web estáticos con HTML5 y CSS3.",
-  "overviewTitle": "Fundamentos de desarrollo web",
-  "overview": "El curso aborda la estructura de páginas web, el diseño adaptable y los fundamentos para publicar sitios estáticos.",
+  "intro": "¡Construye desde cero tu primer sitio web profesional y despliégalo en la nube!",
+  "overviewTitle": "Curso de Desarrollo Web",
+  "overview": "Aprende a diseñar, estructurar y desplegar sitios web responsivos utilizando los lenguajes estándares de la industria (HTML5 y CSS3), creando interfaces funcionales y dominando herramientas como Git y Visual Studio Code.",
   "audienceTitle": "¿A quién está dirigido?",
-  "audience": "A personas con título de bachiller interesadas en comenzar a crear sitios web.",
+  "audience": "Dirigido a principiantes, estudiantes y entusiastas de la tecnología que desean iniciar su carrera tecnológica creando portales web modernos y adaptables a cualquier dispositivo.",
   "modules": [
     {
+      "title": "Fundamentos de la Web",
+      "description": "Arquitectura Cliente-Servidor y uso de Visual Studio Code."
+    },
+    {
       "title": "Estructura con HTML5",
-      "description": "Organización del contenido de una página web mediante elementos HTML."
+      "description": "Maquetación semántica, enlaces, imágenes y creación de formularios."
     },
     {
-      "title": "Diseño con CSS3",
-      "description": "Estilos y recursos para presentar contenido web de manera clara."
+      "title": "Estilos con CSS3",
+      "description": "Modelo de Caja (Box Model), paletas de colores, tipografías y selectores."
     },
     {
-      "title": "Diseño adaptable y publicación",
-      "description": "Principios de adaptación a distintos tamaños de pantalla y publicación de sitios estáticos."
+      "title": "Diseño Responsivo",
+      "description": "Flexbox y Media Queries para adaptar tu web a celulares y computadoras."
+    },
+    {
+      "title": "Git y Despliegue",
+      "description": "Control de versiones y publicación gratuita en la nube (GitHub Pages/Netlify)."
     }
   ],
-  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
-  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "development": "El catálogo publica una duración de 40 horas (20h sincrónicas / 20h asincrónicas) en modalidad 100% virtual (Google Meet y Classroom) de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye aval académico otorgado por la Universidad Israel y CEFEDEP.",
   "questions": [
     {
       "question": "¿Cuánto dura?",
-      "answer": "La duración publicada en el catálogo es de 40 horas."
+      "answer": "La duración publicada en la ficha técnica es de 40 horas (20 horas sincrónicas y 20 horas asincrónicas)."
     },
     {
       "question": "¿Cuál es la modalidad?",
-      "answer": "El catálogo indica modalidad 100% virtual."
+      "answer": "La ficha técnica indica modalidad 100% virtual a través de Google Meet y Google Classroom."
     },
     {
       "question": "¿Qué requisito de ingreso tiene?",
-      "answer": "El catálogo indica título de bachiller."
+      "answer": "Dirigido a principiantes, estudiantes y entusiastas de la tecnología."
     }
   ]
 }

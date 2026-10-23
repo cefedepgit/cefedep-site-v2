@@ -1,38 +1,46 @@
 {
   "eyebrow": "Tecnología / Formación continua",
-  "intro": "Conoce modelos de servicio, costos e infraestructura en servicios de computación en la nube.",
-  "overviewTitle": "Conceptos de computación en la nube",
-  "overview": "El curso presenta conceptos de servicios e infraestructura en la nube y ofrece una introducción a plataformas como AWS, Azure y Google Cloud.",
+  "intro": "¡Despliega infraestructuras escalables y domina AWS, Azure y Google Cloud!",
+  "overviewTitle": "Fundamentos de Cloud Computing",
+  "overview": "Enseña a aprovisionar máquinas virtuales, gestionar redes y asegurar datos en la nube para optimizar recursos y reducir costos operativos en las principales plataformas del mercado (AWS, Azure y GCP).",
   "audienceTitle": "¿A quién está dirigido?",
-  "audience": "A personas con título de bachiller interesadas en conocer fundamentos de cloud computing.",
+  "audience": "Dirigido a estudiantes de sistemas, técnicos e ingenieros que deseen dar sus primeros pasos en la gestión de infraestructura tecnológica moderna y servicios en la nube.",
   "modules": [
     {
-      "title": "Modelos de servicio",
-      "description": "Introducción a los modelos de servicio utilizados en computación en la nube."
+      "title": "Conceptos Cloud",
+      "description": "Evolución, modelos de servicio (IaaS, PaaS, SaaS) y esquemas de despliegue."
     },
     {
-      "title": "Infraestructura en la nube",
-      "description": "Conceptos generales de infraestructura y recursos disponibles en plataformas cloud."
+      "title": "Gestión de Costos",
+      "description": "Análisis CapEx vs. OpEx, TCO, ROI y monitoreo eficiente de presupuestos."
     },
     {
-      "title": "Costos y plataformas",
-      "description": "Aspectos generales de costos y familiarización con AWS, Azure y Google Cloud."
+      "title": "Proveedores y Almacenamiento",
+      "description": "Consolas de AWS, Azure y GCP; creación y gestión de Buckets."
+    },
+    {
+      "title": "Cómputo y Redes",
+      "description": "Creación de Máquinas Virtuales (VMs), VPCs, Subredes y configuración de Firewalls."
+    },
+    {
+      "title": "Seguridad Cloud",
+      "description": "Modelo de Responsabilidad Compartida, gestión IAM, MFA y respaldos (Backups)."
     }
   ],
-  "development": "El catálogo publica una duración de 40 horas y modalidad 100% virtual. La planificación y fechas de la próxima convocatoria están por confirmar.",
-  "certification": "Consulta con CEFEDEP las condiciones de asistencia, evaluación y certificación de la próxima convocatoria.",
+  "development": "El catálogo publica una duración de 40 horas (20h sincrónicas / 20h asincrónicas) en modalidad 100% virtual (Google Meet y Classroom) de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye certificado digital, materiales y aval académico otorgado por la Universidad Israel y CEFEDEP.",
   "questions": [
     {
       "question": "¿Cuánto dura?",
-      "answer": "La duración publicada en el catálogo es de 40 horas."
+      "answer": "La duración publicada en la ficha técnica es de 40 horas (20 horas sincrónicas y 20 horas asincrónicas)."
     },
     {
       "question": "¿Cuál es la modalidad?",
-      "answer": "El catálogo indica modalidad 100% virtual."
+      "answer": "La ficha técnica indica modalidad 100% virtual a través de Google Meet y Google Classroom."
     },
     {
       "question": "¿Qué requisito de ingreso tiene?",
-      "answer": "El catálogo indica título de bachiller."
+      "answer": "Dirigido a estudiantes de sistemas, técnicos e ingenieros."
     }
   ]
 }

@@ -1,8 +1,21 @@
 "use client";
 import { useState } from "react";
-import { categories, courses } from "@/content/catalog";
+import {
+  categories as defaultCategories,
+  courses as defaultCourses,
+  type Course,
+} from "@/content/catalog";
 import { ButtonLink } from "./ui";
-export function CourseCatalog() {
+
+interface CourseCatalogProps {
+  courses?: Course[];
+  categories?: readonly string[];
+}
+
+export function CourseCatalog({
+  courses = defaultCourses,
+  categories = defaultCategories,
+}: CourseCatalogProps = {}) {
   const [category, setCategory] = useState<string>("Todos");
   const filtered = courses.filter(
     (course) => category === "Todos" || course.category === category,

@@ -2,9 +2,7 @@ import { ButtonLink, PageIntro } from "@/components/ui";
 import { Breadcrumbs, Questions } from "@/components/detail-ui";
 import { Endorsement } from "@/components/endorsement";
 import type { CourseDetailContent } from "@/content/course-details";
-import type { courses } from "@/content/catalog";
-
-type Course = (typeof courses)[number];
+import type { Course } from "@/content/catalog";
 
 export function CourseDetail({
   course,

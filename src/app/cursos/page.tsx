@@ -1,6 +1,7 @@
 import { PageIntro, ContactBanner } from "@/components/ui";
 import { Endorsement } from "@/components/endorsement";
 import { CourseCatalog } from "@/components/course-catalog";
+import { courseService } from "@/services/course.service";
 import { pageMetadata } from "@/lib/seo";
 export const metadata = pageMetadata(
   "Cursos con aval de la Universidad Israel",
@@ -8,6 +9,8 @@ export const metadata = pageMetadata(
   "/cursos",
 );
 export default function Courses() {
+  const allCourses = courseService.getAllCourses();
+  const allCategories = courseService.getCategories();
   return (
     <>
       <PageIntro
@@ -21,7 +24,7 @@ export default function Courses() {
       </PageIntro>
       <Endorsement />
       <section className="wrap section">
-        <CourseCatalog />
+        <CourseCatalog courses={allCourses} categories={allCategories} />
         <p className="content-note">
           Duración y modalidad según el catálogo publicado de CEFEDEP. Próximas
           fechas, cupos y costos por consultar. Las inscripciones y los pagos no

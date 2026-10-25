@@ -116,6 +116,44 @@ for (const route of routes)
         fullPage: true,
       });
   });
+test("footer links to CEFEDEP social profiles", async ({ page }) => {
+  await page.goto("/");
+  for (const [name, href] of [
+    ["Facebook", "https://www.facebook.com/cefedep"],
+    ["Instagram", "https://www.instagram.com/cefedep_ecuador"],
+    ["TikTok", "https://www.tiktok.com/@cefedep.ecuador"],
+  ]) {
+    const link = page.getByRole("link", {
+      name: `${name} (se abre en una pestaña nueva)`,
+    });
+    await expect(link).toHaveAttribute("href", href);
+    await expect(link).toHaveAttribute("target", "_blank");
+    await expect(link).toHaveAttribute("rel", "noopener noreferrer");
+  }
+});
+test("home hero carousel switches to video without hiding navigation", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "Pausar presentación" }).click();
+  await page.getByRole("button", { name: "Mostrar el video" }).click();
+  await expect(
+    page.getByRole("navigation", { name: "Navegación principal" }),
+  ).toBeVisible();
+  const video = page.getByTitle("Video de CEFEDEP");
+  await expect(video).toHaveAttribute(
+    "src",
+    /youtube-nocookie\.com\/embed\/fjiOqLF6lac\?.*autoplay=1.*mute=0.*controls=0/,
+  );
+  await expect(video).toHaveAttribute("allow", "autoplay; encrypted-media");
+  await page
+    .getByRole("button", { name: "Mostrar la presentación de CEFEDEP" })
+    .click();
+  await expect(
+    page.getByRole("navigation", { name: "Navegación principal" }),
+  ).toBeVisible();
+  await expect(video).toHaveAttribute("src", /autoplay=0/);
+});
 test("navigation works on the current viewport", async ({ page, isMobile }) => {
   await page.goto("/");
   if (isMobile) {

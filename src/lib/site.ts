@@ -36,3 +36,20 @@ export const navigation = [
   { href: "/nosotros", label: "Nosotros" },
   { href: "/contacto", label: "Contacto" },
 ] as const;
+export const socialNetworks = [
+  {
+    href: "https://www.facebook.com/cefedep",
+    label: "Facebook",
+    icon: "facebook",
+  },
+  {
+    href: "https://www.instagram.com/cefedep_ecuador",
+    label: "Instagram",
+    icon: "instagram",
+  },
+  {
+    href: "https://www.tiktok.com/@cefedep.ecuador",
+    label: "TikTok",
+    icon: "tiktok",
+  },
+] as const;

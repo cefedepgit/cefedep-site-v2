@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Salud / Formación continua",
+  "intro": "Capacita a los participantes en la identificación y atención inicial de emergencias médicas comunes, promoviendo una respuesta oportuna para preservar la vida y prevenir complicaciones.",
+  "overviewTitle": "Preparación para una respuesta inicial en emergencias",
+  "overview": "El curso aborda los fundamentos de los primeros auxilios, la evaluación inicial, la identificación de signos de alarma y la activación de servicios de emergencia ante situaciones médicas y traumatológicas.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Está dirigido a trabajadores, estudiantes, docentes, personal administrativo, brigadistas y público en general que requiera conocimientos básicos para brindar una primera respuesta ante emergencias.",
+  "modules": [
+    {
+      "title": "Fundamentos de los Primeros Auxilios y Evaluación Inicial",
+      "description": "Conceptos fundamentales, seguridad de la escena, bioseguridad, evaluación inicial y activación del sistema de emergencias."
+    },
+    {
+      "title": "Emergencias Médicas y Soporte Vital Básico",
+      "description": "Reconocimiento del paro cardiorrespiratorio, cadena de supervivencia, RCP, uso de DEA y obstrucción de la vía aérea."
+    },
+    {
+      "title": "Atención Inicial de Lesiones y Traumatismos",
+      "description": "Heridas, hemorragias, contusiones, fracturas, esguinces, luxaciones, inmovilización y quemaduras."
+    },
+    {
+      "title": "Emergencias Médicas Frecuentes",
+      "description": "Dolor torácico, accidentes cerebrovasculares, convulsiones, hipoglucemia, anafilaxia, intoxicaciones y emergencias ambientales."
+    },
+    {
+      "title": "Aplicación Práctica de Primeros Auxilios",
+      "description": "Priorización de la atención, simulación de escenarios, técnicas prácticas y caso clínico integrador."
+    }
+  ],
+  "development": "El curso tiene una duración total de 40 horas (20 horas sincrónicas y 20 horas asincrónicas) en modalidad virtual, utilizando Google Classroom para materiales y Google Meet para clases en vivo.",
+  "certification": "Certificado avalado por la Universidad Israel y el Centro de Formación para el desarrollo Educativo y Profesional (CEFEDEP).",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Tiene una duración de 40 horas académicas (20 horas sincrónicas y 20 asincrónicas)."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "Modalidad virtual, con sesiones sincrónicas de lunes a viernes de 19h00 a 21h00 y trabajo asincrónico en Google Classroom."
+    },
+    {
+      "question": "¿Cuál es el costo y qué incluye?",
+      "answer": "El costo por participante es de $80,00 USD e incluye acceso a Classroom, clases en vivo y el certificado avalado por la Universidad Israel y CEFEDEP."
+    }
+  ]
+}

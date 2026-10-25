@@ -1,0 +1,58 @@
+{
+  "eyebrow": "Emprendimiento / Formación continua",
+  "intro": "Elabora de forma artesanal productos cosméticos de uso personal e higiene aplicando Buenas Prácticas de Manufactura, balance de emulsión y normativa ARCSA.",
+  "overviewTitle": "Formulación cosmética artesanal y emprendimiento",
+  "overview": "Capacitación práctica enfocada en la selección de materias primas naturales, formulaciones anhidras, medición de pH, técnica de emulsiones, cosmética sólida y pruebas de estabilidad.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Emprendedores, estudiantes y público en general interesado en desarrollar líneas cosméticas artesanales sostenibles.",
+  "modules": [
+    {
+      "title": "Fundamentos de Cosmética Natural y Normativa ARCSA",
+      "description": "Tendencias del mercado, Notificación Sanitaria Obligatoria (NSO) y Buenas Prácticas de Manufactura (BPM)."
+    },
+    {
+      "title": "Materias Primas: Aceites, Mantecas, Ceras y Extractos",
+      "description": "Perfiles de ácidos grasos, ceras consistentes, hidrolatos, extractos botánicos y activos."
+    },
+    {
+      "title": "Formulación Anhidra, pH y Conservación",
+      "description": "Importancia del pH cutáneo, conservantes, antioxidantes, bálsamos labiales y aceites terapéuticos."
+    },
+    {
+      "title": "Emulsiones y Cosmética Sólida/Líquida",
+      "description": "Teoría de la emulsión (O/W, W/O), champú y acondicionador sólido, jabones de glicerina y geles de ducha."
+    },
+    {
+      "title": "Control de Calidad, Envasado y Rotulado",
+      "description": "Pruebas de estabilidad acelerada, selección de envases y etiquetado bajo nomenclatura INCI."
+    }
+  ],
+  "development": "Tiene una extensión de 80 horas (40 horas sincrónicas en jornadas sabatinas y 40 horas asincrónicas) desarrolladas de forma 100% virtual vía Google Meet y Classroom.",
+  "certification": "Certificado digital emitido con el aval de la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Duración total de 80 horas (40 horas sincrónicas sabatinas de 09h00 a 14h00 y 40h asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, modalidad 100% virtual con talleres prácticos guiados en vivo los sábados."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Abierto al público general y emprendedores sin necesidad de conocimientos previos avanzados."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El valor del programa es de $80,00 USD."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Q.F. Elda Vanessa Molina Jaramillo, Química Farmacéutica y Magíster en Educación."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Se imparte como un taller/curso de formación continua orientado al emprendimiento con aval académico."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "¡Convierte datos crudos en decisiones estratégicas mediante Data Science!",
+  "overviewTitle": "Procesamiento y Visualización de Datos con Python",
+  "overview": "Enseña a limpiar, transformar y representar gráficamente conjuntos de datos utilizando Pandas, NumPy, Matplotlib y Seaborn en entornos de la nube para facilitar la toma de decisiones empresariales y técnicas.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Dirigido a analistas, estudiantes y profesionales que busquen extraer valor de los datos y generar reportes visuales claros que respalden resoluciones gerenciales y técnicas.",
+  "modules": [
+    {
+      "title": "Intro. al Análisis de Datos",
+      "description": "Configuración del entorno en la nube y manejo de arreglos con NumPy."
+    },
+    {
+      "title": "Manipulación con Pandas",
+      "description": "Carga de archivos (CSV, Excel) y estructuración en Series y DataFrames."
+    },
+    {
+      "title": "Data Cleaning",
+      "description": "Identificación y tratamiento de valores nulos, formatos, duplicados y agrupaciones (GroupBy)."
+    },
+    {
+      "title": "Visualización Gráfica",
+      "description": "Diseño de gráficos estadísticos, mapas de calor e interactividad con Matplotlib y Seaborn."
+    },
+    {
+      "title": "Proyecto Integrador",
+      "description": "Desarrollo del flujo completo de análisis sobre un caso de estudio real de negocio."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas (20h sincrónicas / 20h asincrónicas) en modalidad 100% virtual (Google Meet / Colab) de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye aval académico otorgado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en la ficha técnica es de 40 horas (20 horas sincrónicas y 20 horas asincrónicas)."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "La ficha técnica indica modalidad 100% virtual a través de Google Meet y Google Colab."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a analistas, estudiantes y profesionales interesados en la extracción de valor de datos."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "eyebrow": "Educación / Formación continua",
+  "intro": "Adquiere sólidas bases pedagógicas, éticas y operativas para el cuidado integral y educación de niños de 0 a 5 años en centros infantiles.",
+  "overviewTitle": "Atención integral a la primera infancia",
+  "overview": "El programa combina fundamentos del desarrollo infantil, organización de ambientes lúdicos, expresión artística, salud y nutrición, primeros auxilios e inclusión educativa.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Bachilleres, madres comunitarias y personal de guarderías o centros infantiles (18 a 35 años) que buscan formalizar sus conocimientos pedagógicos.",
+  "modules": [
+    {
+      "title": "Fundamentos de Educación Inicial y Desarrollo Infantil",
+      "description": "Marco de la Educación Inicial en Ecuador, derechos del niño, rol del auxiliar y etapas cognitivas según Piaget."
+    },
+    {
+      "title": "Ambientes de Aprendizaje, Motricidad y Juego",
+      "description": "Organización del aula, rincones pedagógicos, seguridad infantil, motricidad fina y gruesa, y el juego como estrategia pedagógica."
+    },
+    {
+      "title": "Estrategias Pedagógicas y Material Didáctico",
+      "description": "Juego libre y dirigido, experiencias de aprendizaje, materiales sensoriales y literatura infantil."
+    },
+    {
+      "title": "Expresión Artística y Evaluación del Aprendizaje",
+      "description": "Técnicas grafo plásticas, música, expresión corporal, observación pedagógica y listas de cotejo."
+    },
+    {
+      "title": "Cuidado Integral Infantil y Emergencias",
+      "description": "Higiene infantil, nutrición básica, protocolos de emergencia y primeros auxilios básicos."
+    },
+    {
+      "title": "Inclusión Educativa y Trabajo con Familias",
+      "description": "Relación escuela-familia, comunicación asertiva, redes de apoyo e identificación temprana de necesidades educativas."
+    },
+    {
+      "title": "Atención, Acompañamiento y Organización del Aula",
+      "description": "Acompañamiento emocional, resolución de conflictos, ética profesional y planificación de experiencias didácticas."
+    },
+    {
+      "title": "Evaluación Práctica Final",
+      "description": "Simulación pedagógica, taller integrador y presentación de actividad educativa."
+    }
+  ],
+  "development": "El curso abarca 80 horas académicas (48 horas sincrónicas y 32 horas asincrónicas) en modalidad 100% virtual vía Google Meet y Classroom, incluyendo prácticas en centros o guarderías aliadas.",
+  "certification": "Certificación con firma digital y aval académico otorgado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Tiene una duración total de 80 horas académicas (48h sincrónicas y 32h asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, las clases teóricas y metodológicas son 100% virtuales con componentes prácticos en centros aliados."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a bachilleres, madres comunitarias y personal empírico del área de educación inicial."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El valor del curso es de $320,00 USD por participante. Las fechas se fijan por ciclo académico."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Mag. Mireya Belén Quispe Revelo, Licenciada en Educación Infantil y Magíster en Innovación en la Educación."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "No equivale a un título profesional de grado; es una capacitación continua de perfeccionamiento con aval académico."
+    }
+  ]
+}

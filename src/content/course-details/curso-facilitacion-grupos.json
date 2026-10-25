@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Capacitación / Formación continua",
+  "intro": "Desarrolla competencias metodológicas avanzadas para diseñar planes de sesión, liderar talleres participativos y aplicar la gamificación en la capacitación corporativa.",
+  "overviewTitle": "Facilitación y transferencia de conocimientos",
+  "overview": "Formación práctica en andragogía, ciclo de Kolb, metodologías activas (Aula Invertida, Casos), comunicación no verbal, manejo de objeciones y evaluación del impacto formativo.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Capacitadores, facilitadores, consultores y servidores públicos (especialmente del MDT) encargados de liderar procesos formativos.",
+  "modules": [
+    {
+      "title": "Andragogía y Planificación Técnico-Pedagógica",
+      "description": "Principios del aprendizaje de adultos, ciclo de Kolb, perfil del formador y cartas descriptivas."
+    },
+    {
+      "title": "Metodologías Activas y Conducción de Grupos",
+      "description": "Aula Invertida, Aprendizaje Basado en Problemas, técnicas rompehielos y manejo de objeciones."
+    },
+    {
+      "title": "Herramientas Digitales y Evaluación del Aprendizaje",
+      "description": "Pizarras colaborativas (Miro, Jamboard), gamificación (Mentimeter, Kahoot), rúbricas y retroalimentación."
+    }
+  ],
+  "development": "Comprende 40 horas (20 horas sincrónicas y 20 horas asincrónicas) impartidas en modalidad 100% virtual (Google Meet y Classroom) o presencial.",
+  "certification": "Certificado con firma digital respaldado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "Tiene una carga horaria de 40 horas académicas (20h sincrónicas / 20h asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Se dicta en modalidad 100% virtual o presencial adaptada a requerimientos institucionales."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a capacitadores, facilitadores y profesionales vinculados a la formación de equipos."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El costo de inscripción por participante es de $100,00 USD."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Psic. Zamira Dayanna Varela Chacón, Licenciada en Psicología Clínica y Magíster en Terapias de Tercera Generación."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Es una oferta de capacitación y perfeccionamiento continuo con aval académico."
+    }
+  ]
+}

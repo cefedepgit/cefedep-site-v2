@@ -1,0 +1,70 @@
+{
+  "eyebrow": "Derecho / Formación continua",
+  "intro": "Adquiere habilidades ofimáticas legales urgentes y conocimientos estructurales del derecho ecuatoriano para desempeñarte como personal de apoyo en estudios jurídicos y notarías.",
+  "overviewTitle": "Capacitación integral para el apoyo legal",
+  "overview": "El programa proporciona una sólida base en el ordenamiento jurídico ecuatoriano, técnicas aceleradas de redacción jurídica, gestión de trámites administrativos y judiciales, y archivo legal físico y digital.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Bachilleres y jóvenes de 18 a 35 años que buscan integrarse rápidamente como personal de apoyo en estudios jurídicos, notarías e instituciones públicas o privadas.",
+  "modules": [
+    {
+      "title": "Fundamentos del Derecho y Constitución",
+      "description": "Conceptos de derecho, normas, estructura del Estado, garantías constitucionales y rol del asistente jurídico."
+    },
+    {
+      "title": "Redacción Jurídica y Derecho Civil",
+      "description": "Técnicas de comunicación en el ámbito legal, personas naturales y jurídicas, y actos jurídicos."
+    },
+    {
+      "title": "Derecho de Familia y Penal",
+      "description": "Estudio sobre matrimonio, pensión alimenticia, concepto de delito, tipos de delitos y responsabilidad penal."
+    },
+    {
+      "title": "Procesal, Mercantil y Societario",
+      "description": "Etapas del proceso judicial, sociedades, contratos comerciales y estructura formal de la demanda."
+    },
+    {
+      "title": "Trámites Jurídicos y Gestión Documental",
+      "description": "Procedimientos judiciales básicos, gestión de documentos y organización de archivo legal físico y digital."
+    },
+    {
+      "title": "Derecho Administrativo y Laboral",
+      "description": "Análisis de la relación Estado-ciudadano, contratos de trabajo y resolución de conflictos laborales."
+    },
+    {
+      "title": "Asistencia Jurídica Integral",
+      "description": "Atención a usuarios, ética profesional, gestión legal diaria y revisión de escritos jurídicos."
+    },
+    {
+      "title": "Evaluación Práctica Final",
+      "description": "Identificación de un caso jurídico integral, estructuración del expediente completo y defensa final."
+    }
+  ],
+  "development": "El programa contempla 80 horas académicas (48 horas sincrónicas y 32 horas asincrónicas) desarrolladas en modalidad 100% virtual a través de Google Meet y Google Classroom, e incluye opción de prácticas en notarías o consorcios aliados.",
+  "certification": "Curso con aval académico de la Universidad Israel (UISRAEL) y el Centro de Formación para el Desarrollo Educativo y Profesional (CEFEDEP) con firma digital.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración total es de 80 horas académicas, distribuidas en 48 horas sincrónicas y 32 horas asincrónicas."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, la modalidad de clases es 100% virtual (Google Meet y Google Classroom) con posibilidad de prácticas institucionales."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Está dirigido principalmente a bachilleres y jóvenes de 18 a 35 años."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "El costo de inversión es de $320,00 USD por participante. Las fechas específicas se confirman según la convocatoria."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Abg. Tatiana Katherine Soria Lagos, especialista con más de 10 años de experiencia en el sector público y privado."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Se presenta como un programa de capacitación de formación continua con aval académico, no como una carrera universitaria."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Salud / Formación continua",
+  "intro": "Conviértete en un experto indispensable en la atención y gestión farmacéutica.",
+  "overviewTitle": "Una formación orientada a la gestión farmacéutica",
+  "overview": "Capacítate integralmente para desempeñarte con excelencia en farmacias comunitarias y hospitalarias, dominando desde la farmacología básica hasta la logística de inventarios y la legislación vigente.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Dirigido a bachilleres que deseen desarrollar su carrera en el sector farmacéutico y de salud, así como a personal que ya labora en farmacias y busca formalizar y certificar sus conocimientos.",
+  "modules": [
+    {
+      "title": "Farmacología y Recetas",
+      "description": "Vías de administración, validación de recetas y psicotrópicos."
+    },
+    {
+      "title": "Atención al Cliente",
+      "description": "Triaje farmacéutico, tecnovigilancia, merchandising y venta cruzada."
+    },
+    {
+      "title": "Logística y Gestión",
+      "description": "BPA, recepción técnica, validación de lotes, caducidad y actas de rechazo."
+    },
+    {
+      "title": "Control de Inventarios",
+      "description": "Sistema FIFO/FEFO, cadena de frío y manejo de precios regulados."
+    },
+    {
+      "title": "Legislación",
+      "description": "Marco legal, responsabilidad civil y penal, inspecciones (ARCSA) y ética profesional."
+    }
+  ],
+  "development": "El programa tiene una duración total de 100 horas (60h sincrónicas / 40h asincrónicas) en modalidad híbrida (Google Meet y Classroom), con un horario de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye certificado avalado por la Universidad Israel y CEFEDEP. Consulta con CEFEDEP las condiciones de asistencia, evaluación y costo ($320,00 USD).",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "El curso tiene una duración de 100 horas (60h sincrónicas / 40h asincrónicas) impartidas de lunes a viernes de 19h00 a 21h00."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "Modalidad híbrida a través de Google Meet y Classroom."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a bachilleres y personal que ya labora en farmacias."
+    }
+  ]
+}

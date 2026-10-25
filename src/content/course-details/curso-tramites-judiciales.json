@@ -1,0 +1,58 @@
+{
+  "eyebrow": "Derecho / Formación continua",
+  "intro": "Gestiona de manera operativa y técnica diversos trámites judiciales en plataformas oficiales mediante digitalización de expedientes y firma electrónica.",
+  "overviewTitle": "Modernización de la justicia y gestión operativa",
+  "overview": "El programa capacita en el manejo del Casillero Judicial Virtual, firma electrónica masiva, cómputo de términos procesales, comparecencia virtual en audiencias y plataformas del SUPA, laboral y penal.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Bachilleres, estudiantes, asistentes administrativos y personal de apoyo que busque fortalecer sus competencias en procesos judiciales.",
+  "modules": [
+    {
+      "title": "Modernización de la Justicia y Expedientes Digitales",
+      "description": "Oficina Judicial Virtual, casillero electrónico, digitalización, foliación virtual y firma electrónica."
+    },
+    {
+      "title": "Consulta de Causas e Ingreso Virtual de Escritos",
+      "description": "Búsqueda avanzada, lectura de providencias, plazos procesales, citaciones, tasas y pagos virtuales."
+    },
+    {
+      "title": "Comparecencia en Audiencias y Materia Civil/Mercantil",
+      "description": "Protocolos técnicos en Zoom/Teams, prueba web y flujo procesal en materias Ordinaria, Sumaria y Ejecutiva."
+    },
+    {
+      "title": "Gestión en Materia Penal, Laboral y Familia (SUPA)",
+      "description": "Agendamiento en flagrancia, boletas de excarcelación, liquidación laboral y cálculo en el sistema SUPA."
+    },
+    {
+      "title": "Incidentes, Recursos y Cierre del Expediente",
+      "description": "Trámite de recursos de apelación y aclaración, desistimientos y pasivación del archivo digital."
+    }
+  ],
+  "development": "Programa de 80 horas académicas (48 horas sincrónicas y 32 horas asincrónicas) dictado 100% virtual por Google Meet y Google Classroom.",
+  "certification": "Certificado digital respaldado por el aval académico de la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "El curso abarca 80 horas académicas (48 horas sincrónicas y 32 horas asincrónicas)."
+    },
+    {
+      "question": "¿Es completamente virtual?",
+      "answer": "Sí, 100% virtual con sesiones en vivo y ejercicios de simulación en plataforma."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Orientado a bachilleres, estudiantes y asistentes administrativos del ámbito legal."
+    },
+    {
+      "question": "¿Cuándo empieza y cuánto cuesta?",
+      "answer": "La inversión es de $320,00 USD por estudiante."
+    },
+    {
+      "question": "¿Quién imparte el curso?",
+      "answer": "Dr. César Calvache, Doctor en Jurisprudencia y especialista en gestión de calidad pedagógica."
+    },
+    {
+      "question": "¿Este curso equivale a una carrera universitaria?",
+      "answer": "Programa de perfeccionamiento operativo en formación continua con aval universitario."
+    }
+  ]
+}

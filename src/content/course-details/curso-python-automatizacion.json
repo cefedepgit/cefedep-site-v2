@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Tecnología / Formación continua",
+  "intro": "¡Multiplica tu productividad programando con IA, automatiza procesos y despliega chatbots!",
+  "overviewTitle": "Diseño de Soluciones Tecnológicas y Automatización con Python Asistido por IA",
+  "overview": "Permite adquirir competencias prácticas en ingeniería de prompts y metodologías de Vibe Coding para crear scripts en Python, optimizar el procesamiento de datos, integrar sistemas de visión artificial y desarrollar agentes conversacionales inteligentes.",
+  "audienceTitle": "¿A quién está dirigido?",
+  "audience": "Dirigido a profesionales, programadores y entusiastas de la tecnología que buscan potenciar su productividad mediante Inteligencia Artificial y la orquestación de herramientas generativas.",
+  "modules": [
+    {
+      "title": "Vibe Coding y OCR",
+      "description": "Ingeniería de prompts, generación de scripts en Python y tecnologías de Reconocimiento Óptico de Caracteres (OCR)."
+    },
+    {
+      "title": "Datos y Dashboards",
+      "description": "Generación automatizada de código para limpiar datos tabulares y desplegar cuadros de mando."
+    },
+    {
+      "title": "Visión Artificial",
+      "description": "Integración de copilotos de IA y modelos preentrenados para reconocer patrones y seguir gestos en video."
+    },
+    {
+      "title": "Agentes Conversacionales (NLP)",
+      "description": "Arquitectura de Chatbots, APIs de IA y entrenamiento contextual."
+    },
+    {
+      "title": "Despliegue de Proyectos",
+      "description": "Orquestación funcional, debugging asistido por IA y pruebas de integración."
+    }
+  ],
+  "development": "El catálogo publica una duración de 40 horas (20h sincrónicas / 20h asincrónicas) en modalidad 100% virtual (Google Meet y Classroom) de lunes a viernes de 19h00 a 21h00.",
+  "certification": "Incluye certificado digital, materiales y aval académico otorgado por la Universidad Israel y CEFEDEP.",
+  "questions": [
+    {
+      "question": "¿Cuánto dura?",
+      "answer": "La duración publicada en la ficha técnica es de 40 horas (20 horas sincrónicas y 20 horas asincrónicas)."
+    },
+    {
+      "question": "¿Cuál es la modalidad?",
+      "answer": "La ficha técnica indica modalidad 100% virtual a través de Google Meet y Google Classroom."
+    },
+    {
+      "question": "¿Qué requisito de ingreso tiene?",
+      "answer": "Dirigido a profesionales, programadores y entusiastas de la tecnología."
+    }
+  ]
+}

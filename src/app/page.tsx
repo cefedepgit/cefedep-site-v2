@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { ButtonLink, ContactBanner } from "@/components/ui";
+import { HomeHero } from "@/components/home-hero";
 import { Endorsement } from "@/components/endorsement";
 import { TrainingGallery } from "@/components/training-gallery";
 import { servicePages as services } from "@/content/service-pages";
@@ -13,50 +14,7 @@ export const metadata = pageMetadata(
 export default function Home() {
   return (
     <>
-      <section className="hero wrap">
-        <div className="hero-copy">
-          <p className="eyebrow">
-            <span className="dot" /> Educación · Investigación · Consultoría
-          </p>
-          <h1>
-            Impulsa tus ideas.
-            <br />
-            Transforma tu
-            <br />
-            <em>futuro.</em>
-          </h1>
-          <p className="hero-description">
-            Acompañamos tu proyecto académico e institucional. Aprende,
-            investiga y desarrolla nuevas competencias con CEFEDEP Ecuador.
-          </p>
-          <div className="actions">
-            <ButtonLink href="/cursos">Explorar cursos</ButtonLink>
-            <ButtonLink href="/servicios" secondary>
-              Conocer servicios
-            </ButtonLink>
-          </div>
-          <p className="hero-note">
-            Formación para personas. Soluciones para instituciones.
-          </p>
-        </div>
-        <figure className="hero-photo">
-          <Image
-            src="/photos/capacitacion-taller.jpeg"
-            alt="Jornada de capacitación de CEFEDEP con facilitadores y participantes compartiendo conocimientos"
-            fill
-            sizes="(max-width: 760px) 100vw, 50vw"
-            preload
-          />
-          <figcaption>
-            <span>EXPERIENCIA CEFEDEP</span>
-            <strong>
-              Aprender juntos.
-              <br />
-              Crecer en comunidad.
-            </strong>
-          </figcaption>
-        </figure>
-      </section>
+      <HomeHero />
       <Endorsement />
       <section className="wrap section">
         <div className="section-heading">

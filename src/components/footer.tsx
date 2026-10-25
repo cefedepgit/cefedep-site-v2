@@ -86,7 +86,6 @@ export function Footer() {
       </div>
       <div className="wrap footer-bottom">
         <p>© {new Date().getFullYear()} CEFEDEP · V2</p>
-        <p>Vista de pruebas · Sin inscripciones ni pagos activos.</p>
       </div>
     </footer>
   );

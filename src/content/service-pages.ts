@@ -94,7 +94,7 @@ const content = [
     outcome:
       "Un análisis alineado con los objetivos y una interpretación comprensible de los resultados.",
     preparation:
-      "Explica tu pregunta de investigación, el diseño del estudio y el tipo de datos. No envíes datos personales en esta vista de pruebas.",
+      "Explica tu pregunta de investigación, el diseño del estudio y el tipo de datos.",
     stages: [
       "Revisión de objetivos, diseño e instrumentos",
       "Evaluación de la calidad y estructura de los datos",
@@ -167,10 +167,6 @@ const content = [
       [
         "¿Qué aval tienen los cursos?",
         "Los cursos cuentan con aval académico de la Universidad Israel (UISRAEL), según la información confirmada por CEFEDEP. Consulta las condiciones de certificación del programa elegido.",
-      ],
-      [
-        "¿Puedo inscribirme desde esta V2?",
-        "Todavía no. Esta es una vista de pruebas: el formulario solo valida información y los pagos están desactivados.",
       ],
     ],
   },

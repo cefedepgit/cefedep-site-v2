@@ -27,8 +27,7 @@ export default function Courses() {
         <CourseCatalog courses={allCourses} categories={allCategories} />
         <p className="content-note">
           Duración y modalidad según el catálogo publicado de CEFEDEP. Próximas
-          fechas, cupos y costos por consultar. Las inscripciones y los pagos no
-          están habilitados en esta vista de pruebas.
+          fechas, cupos y costos por consultar.
         </p>
       </section>
       <ContactBanner />

@@ -75,10 +75,6 @@ export function CourseDetail({
             <dd>Por confirmar</dd>
           </dl>
           <ButtonLink href="/contacto">Preparar consulta</ButtonLink>
-          <p className="content-note">
-            Vista de pruebas. El formulario no envía datos y las inscripciones
-            no están habilitadas.
-          </p>
         </aside>
       </section>
       <section className="wrap section-topless">

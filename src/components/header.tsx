@@ -9,9 +9,6 @@ export function Header() {
   const [open, setOpen] = useState(false);
   return (
     <>
-      <div className="preview-notice">
-        CEFEDEP V2 · Vista de pruebas · Sin inscripciones ni pagos activos
-      </div>
       <header className="site-header">
         <div className="wrap header-inner">
           <Link
